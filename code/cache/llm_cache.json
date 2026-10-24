@@ -1,0 +1,5517 @@
+{
+ "0121ad80d04a95179b3bd1bd71f2e1faab21ffc71f15d35a6f59305de8ab2ea9": {
+  "model": "gemini-3.5-flash",
+  "purpose": "intent_classification",
+  "response": {
+   "results": [
+    {
+     "authorizes_deletion": false,
+     "id": 0,
+     "request_type": "ACCESS"
+    },
+    {
+     "authorizes_deletion": false,
+     "id": 1,
+     "request_type": "ACCOUNT_SUPPORT"
+    },
+    {
+     "authorizes_deletion": false,
+     "id": 2,
+     "request_type": "EXPORT"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 3,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 4,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 5,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 6,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 7,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 8,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 9,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 10,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 11,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 12,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 13,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 14,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 15,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 16,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 17,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 18,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 19,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 20,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 21,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 22,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 23,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 24,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 25,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 26,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 27,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 28,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 29,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 30,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 31,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 32,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 33,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 34,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 35,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 36,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 37,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 38,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 39,
+     "request_type": "DELETION"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1768,
+   "output": 3227
+  }
+ },
+ "0571bfb3f7d8b54e2daeb9f18e5226cc682056a7c1b29ac4fbf1dd49a6a15869": {
+  "model": "gemini-3.5-flash",
+  "purpose": "intent_classification",
+  "response": {
+   "results": [
+    {
+     "authorizes_deletion": true,
+     "id": 0,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 1,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 2,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 3,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 4,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 5,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 6,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 7,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 8,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 9,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 10,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 11,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 12,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 13,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 14,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 15,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 16,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 17,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 18,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 19,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 20,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 21,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 22,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 23,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 24,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 25,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 26,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 27,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 28,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 29,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 30,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 31,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 32,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 33,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 34,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 35,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 36,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 37,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 38,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 39,
+     "request_type": "DELETION"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1695,
+   "output": 3258
+  }
+ },
+ "07e721e1209580d1668e16ed7e672252fd52b1f3aaa53e98f3557a5ce55e7648": {
+  "model": "gemini-flash-latest",
+  "purpose": "intent_classification",
+  "response": {
+   "results": [
+    {
+     "authorizes_deletion": true,
+     "id": 0,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 1,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 2,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 3,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 4,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 5,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 6,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 7,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 8,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 9,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 10,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 11,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 12,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 13,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 14,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 15,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 16,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 17,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 18,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 19,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 20,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 21,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 22,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 23,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 24,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 25,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 26,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 27,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 28,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 29,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 30,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 31,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 32,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 33,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 34,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 35,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 36,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 37,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 38,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 39,
+     "request_type": "DELETION"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1599,
+   "output": 1875
+  }
+ },
+ "11c626f110171a84b8e0e21f17a343f334a493ddfe1ae367561a725731bd7bc7": {
+  "model": "gemini-flash-latest",
+  "purpose": "intent_classification",
+  "response": {
+   "results": [
+    {
+     "authorizes_deletion": true,
+     "id": 0,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 1,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 2,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 3,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 4,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 5,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 6,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 7,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 8,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 9,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 10,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 11,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 12,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 13,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 14,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 15,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 16,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 17,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 18,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 19,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 20,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 21,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 22,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 23,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 24,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 25,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 26,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 27,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 28,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 29,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 30,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 31,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": false,
+     "id": 32,
+     "request_type": "MARKETING_OPT_OUT"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 33,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": false,
+     "id": 34,
+     "request_type": "MARKETING_OPT_OUT"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 35,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 36,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 37,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 38,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 39,
+     "request_type": "DELETION"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1716,
+   "output": 2027
+  }
+ },
+ "21cb342bfcf7b2b76694b6bc46841d12bd7ed2ac84d9c7e4929ed01e46ccf9e0": {
+  "purpose": "media_extraction",
+  "response": {
+   "records": [
+    {
+     "display_reference": "Gabriel Silva",
+     "identifiers": [
+      "Gabriel Silva",
+      "g.silva76@gmail.com",
+      "user_13"
+     ],
+     "record_type": "SEARCH_INDEX_ENTRY",
+     "resource_id": "search_428",
+     "retain_until": "",
+     "status": "IDENTIFIABLE",
+     "subject": "g.silva76@gmail.com",
+     "system": "search_service"
+    },
+    {
+     "display_reference": "",
+     "identifiers": [
+      "g.silva76.jr@gmail.com"
+     ],
+     "record_type": "SEARCH_INDEX_ENTRY",
+     "resource_id": "search_1874",
+     "retain_until": "",
+     "status": "IDENTIFIABLE",
+     "subject": "g.silva76.jr@gmail.com",
+     "system": "search_service"
+    }
+   ]
+  },
+  "usage": {
+   "input": 854,
+   "output": 1436
+  }
+ },
+ "2970235a8349501893ce5d607abaefaaa16fdf34205c4299434c7276974b4126": {
+  "purpose": "media_extraction",
+  "response": {
+   "records": [
+    {
+     "display_reference": "Account closure recorded",
+     "identifiers": [
+      "user_03"
+     ],
+     "record_type": "SECURITY_AUDIT_LOG",
+     "resource_id": "audit_record_003",
+     "retain_until": "",
+     "status": "IDENTIFIABLE",
+     "subject": "user_03",
+     "system": "security_service"
+    },
+    {
+     "display_reference": "Session revoked",
+     "identifiers": [
+      "user_03"
+     ],
+     "record_type": "SECURITY_AUDIT_LOG",
+     "resource_id": "audit_record_002",
+     "retain_until": "",
+     "status": "IDENTIFIABLE",
+     "subject": "user_03",
+     "system": "security_service"
+    },
+    {
+     "display_reference": "Recovery challenge completed",
+     "identifiers": [
+      "user_03"
+     ],
+     "record_type": "SECURITY_AUDIT_LOG",
+     "resource_id": "audit_record_001",
+     "retain_until": "",
+     "status": "IDENTIFIABLE",
+     "subject": "user_03",
+     "system": "security_service"
+    },
+    {
+     "display_reference": "Email change confirmed",
+     "identifiers": [
+      "user_03"
+     ],
+     "record_type": "SECURITY_AUDIT_LOG",
+     "resource_id": "audit_record_006",
+     "retain_until": "",
+     "status": "IDENTIFIABLE",
+     "subject": "user_03",
+     "system": "security_service"
+    },
+    {
+     "display_reference": "Login from new device",
+     "identifiers": [
+      "user_03"
+     ],
+     "record_type": "SECURITY_AUDIT_LOG",
+     "resource_id": "audit_record_005",
+     "retain_until": "",
+     "status": "IDENTIFIABLE",
+     "subject": "user_03",
+     "system": "security_service"
+    },
+    {
+     "display_reference": "Password changed",
+     "identifiers": [
+      "user_03"
+     ],
+     "record_type": "SECURITY_AUDIT_LOG",
+     "resource_id": "audit_record_004",
+     "retain_until": "",
+     "status": "IDENTIFIABLE",
+     "subject": "user_03",
+     "system": "security_service"
+    }
+   ]
+  },
+  "usage": {
+   "input": 854,
+   "output": 1950
+  }
+ },
+ "3831f01aeba634f62a8b5715a9e0c9bdc261d0dda958730bb1df9c4d11b4d404": {
+  "model": "gemini-flash-latest",
+  "purpose": "intent_classification",
+  "response": {
+   "results": [
+    {
+     "authorizes_deletion": true,
+     "id": 0,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 1,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 2,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 3,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 4,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 5,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 6,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 7,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 8,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 9,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 10,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 11,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 12,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 13,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 14,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 15,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 16,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 17,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 18,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 19,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 20,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 21,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 22,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 23,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 24,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 25,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 26,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 27,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 28,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 29,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 30,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 31,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": false,
+     "id": 32,
+     "request_type": "ACCOUNT_SUPPORT"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 33,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 34,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 35,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 36,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 37,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 38,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": false,
+     "id": 39,
+     "request_type": "ACCESS"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1684,
+   "output": 1703
+  }
+ },
+ "3ae2b0621e582835b59971b0e509d3fcca4ec80afeffb9e5d986c78a3b32e751": {
+  "model": "gemini-flash-latest",
+  "purpose": "intent_classification",
+  "response": {
+   "results": [
+    {
+     "authorizes_deletion": false,
+     "id": 0,
+     "request_type": "ACCESS"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 1,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": false,
+     "id": 2,
+     "request_type": "EXPORT"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 3,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 4,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 5,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 6,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 7,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 8,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 9,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 10,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 11,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 12,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 13,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 14,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 15,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 16,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 17,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 18,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 19,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 20,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 21,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 22,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 23,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 24,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 25,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 26,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 27,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 28,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 29,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 30,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 31,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 32,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 33,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 34,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 35,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 36,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 37,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 38,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 39,
+     "request_type": "DELETION"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1817,
+   "output": 1526
+  }
+ },
+ "44d48ffe2bad02eef1d47a4bf9fb2d1eb738dd6f4072a8d2622b8746d41e70b4": {
+  "model": "gemini-flash-latest",
+  "purpose": "intent_classification",
+  "response": {
+   "results": [
+    {
+     "authorizes_deletion": true,
+     "id": 0,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 1,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 2,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 3,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 4,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 5,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 6,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 7,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 8,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 9,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 10,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 11,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 12,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 13,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 14,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 15,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 16,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 17,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 18,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 19,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 20,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 21,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 22,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 23,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 24,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 25,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 26,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 27,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 28,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 29,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 30,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 31,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 32,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 33,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 34,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 35,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 36,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 37,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 38,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 39,
+     "request_type": "DELETION"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1739,
+   "output": 2002
+  }
+ },
+ "4d3e1a0295b6006dd1cc81a85ffb54b7c92f998027d0637d92c9a677f452c1bc": {
+  "model": "gemini-flash-latest",
+  "purpose": "intent_classification",
+  "response": {
+   "results": [
+    {
+     "authorizes_deletion": true,
+     "id": 0,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 1,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 2,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 3,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 4,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 5,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 6,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 7,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 8,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 9,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 10,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 11,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 12,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 13,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 14,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 15,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 16,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 17,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 18,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 19,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 20,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 21,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 22,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 23,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 24,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 25,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 26,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 27,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 28,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 29,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 30,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 31,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 32,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 33,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 34,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 35,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 36,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 37,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 38,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 39,
+     "request_type": "DELETION"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1869,
+   "output": 1219
+  }
+ },
+ "50a7af737475094db9cd3b61c3c75759441770b401f5420a4aa589b0015df5c6": {
+  "purpose": "media_extraction",
+  "response": {
+   "records": [
+    {
+     "display_reference": "customer_export_1261.zip",
+     "identifiers": [
+      "marcus.lee@northstar.shop"
+     ],
+     "record_type": "USER_EXPORT",
+     "resource_id": "export_1261",
+     "retain_until": "",
+     "status": "FOUND",
+     "subject": "marcus.lee@northstar.shop",
+     "system": "export_service"
+    },
+    {
+     "display_reference": "customer_export_1260.zip",
+     "identifiers": [
+      "ingrid.dahl@outlook.com"
+     ],
+     "record_type": "USER_EXPORT",
+     "resource_id": "export_1260",
+     "retain_until": "2026-06-25T06:42:00Z",
+     "status": "FOUND",
+     "subject": "ingrid.dahl@outlook.com",
+     "system": "export_service"
+    },
+    {
+     "display_reference": "customer_export_1259.zip",
+     "identifiers": [
+      "sara.kim@northstar.shop"
+     ],
+     "record_type": "USER_EXPORT",
+     "resource_id": "export_1259",
+     "retain_until": "",
+     "status": "FOUND",
+     "subject": "sara.kim@northstar.shop",
+     "system": "export_service"
+    },
+    {
+     "display_reference": "customer_export_1258.zip",
+     "identifiers": [
+      "daniel.park@northstar.shop"
+     ],
+     "record_type": "USER_EXPORT",
+     "resource_id": "export_1258",
+     "retain_until": "",
+     "status": "FOUND",
+     "subject": "daniel.park@northstar.shop",
+     "system": "export_service"
+    }
+   ]
+  },
+  "usage": {
+   "input": 854,
+   "output": 1399
+  }
+ },
+ "6e735dd34d21184e007996f83307707bfd0ef2920843fef30d3f41bb7a77fca6": {
+  "model": "gemini-flash-latest",
+  "purpose": "intent_classification",
+  "response": {
+   "results": [
+    {
+     "authorizes_deletion": true,
+     "id": 0,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 1,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 2,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 3,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 4,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 5,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 6,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 7,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 8,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 9,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 10,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 11,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 12,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 13,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 14,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 15,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 16,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 17,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 18,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 19,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 20,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 21,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 22,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 23,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 24,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 25,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 26,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 27,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 28,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 29,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 30,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 31,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": false,
+     "id": 32,
+     "request_type": "MARKETING_OPT_OUT"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 33,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": false,
+     "id": 34,
+     "request_type": "MARKETING_OPT_OUT"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 35,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 36,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 37,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 38,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 39,
+     "request_type": "DELETION"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1667,
+   "output": 1087
+  }
+ },
+ "70fb49ea715452d07128f77cfe9764d79dff51492f1113cabefc778451fdb4e5": {
+  "model": "gemini-3.5-flash",
+  "purpose": "media_extraction",
+  "response": {
+   "captured_at": "2026-02-13T08:00:00Z",
+   "records": [
+    {
+     "display_reference": "delivery_confirmation_19.pdf",
+     "identifiers": [],
+     "record_type": "SUPPORT_ATTACHMENT",
+     "resource_id": "",
+     "retain_until": "",
+     "status": "FOUND",
+     "subject": "",
+     "system": "object_storage"
+    },
+    {
+     "display_reference": "delivery_confirmation_20.pdf",
+     "identifiers": [],
+     "record_type": "SUPPORT_ATTACHMENT",
+     "resource_id": "",
+     "retain_until": "",
+     "status": "FOUND",
+     "subject": "",
+     "system": "object_storage"
+    },
+    {
+     "display_reference": "return_label_4821.pdf",
+     "identifiers": [],
+     "record_type": "SUPPORT_ATTACHMENT",
+     "resource_id": "",
+     "retain_until": "",
+     "status": "FOUND",
+     "subject": "",
+     "system": "object_storage"
+    },
+    {
+     "display_reference": "return_label_4876.pdf",
+     "identifiers": [],
+     "record_type": "SUPPORT_ATTACHMENT",
+     "resource_id": "",
+     "retain_until": "",
+     "status": "FOUND",
+     "subject": "",
+     "system": "object_storage"
+    },
+    {
+     "display_reference": "invoice_NS-10493.pdf",
+     "identifiers": [],
+     "record_type": "SUPPORT_ATTACHMENT",
+     "resource_id": "",
+     "retain_until": "",
+     "status": "FOUND",
+     "subject": "",
+     "system": "object_storage"
+    },
+    {
+     "display_reference": "parcel_damage_7713.jpg",
+     "identifiers": [],
+     "record_type": "SUPPORT_ATTACHMENT",
+     "resource_id": "",
+     "retain_until": "",
+     "status": "FOUND",
+     "subject": "",
+     "system": "object_storage"
+    },
+    {
+     "display_reference": "customer_export_2026-02-10.zip",
+     "identifiers": [],
+     "record_type": "USER_EXPORT",
+     "resource_id": "",
+     "retain_until": "",
+     "status": "FOUND",
+     "subject": "",
+     "system": "object_storage"
+    },
+    {
+     "display_reference": "customer_export_2026-02-12.zip",
+     "identifiers": [],
+     "record_type": "USER_EXPORT",
+     "resource_id": "",
+     "retain_until": "",
+     "status": "FOUND",
+     "subject": "",
+     "system": "object_storage"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1662,
+   "output": 3743
+  }
+ },
+ "74d496adf6d111e682aeeb046a78ebb3e052c46f579274fa8335832613db9d11": {
+  "model": "gemini-3.5-flash",
+  "purpose": "media_extraction",
+  "response": {
+   "records": [
+    {
+     "display_reference": "CS-4827",
+     "identifiers": [
+      "Priya Raman",
+      "priya.raman@gmail.com",
+      "+91 98765 73142"
+     ],
+     "record_type": "SUPPORT_MESSAGE",
+     "resource_id": "support_001",
+     "retain_until": "",
+     "status": "IDENTIFIABLE",
+     "subject": "priya.raman@gmail.com",
+     "system": "support_platform"
+    },
+    {
+     "display_reference": "delivery_address_correction.pdf",
+     "identifiers": [],
+     "record_type": "SUPPORT_ATTACHMENT",
+     "resource_id": "",
+     "retain_until": "",
+     "status": "FOUND",
+     "subject": "priya.raman@gmail.com",
+     "system": "support_platform"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1660,
+   "output": 4018
+  }
+ },
+ "7ec3aa38298681fc26ed746783822ac0282dc6a61415111fc303cc68a1b8bf3b": {
+  "model": "gemini-3.5-flash",
+  "purpose": "media_extraction",
+  "response": {
+   "records": [
+    {
+     "display_reference": "",
+     "identifiers": [
+      "Haruka Sato",
+      "haruka.s1838@zoho.com",
+      "+81 90 7610 2507",
+      "user_11"
+     ],
+     "record_type": "USER_PROFILE",
+     "resource_id": "account_5762",
+     "retain_until": "",
+     "status": "IDENTIFIABLE",
+     "subject": "haruka.s1838@zoho.com",
+     "system": "account_service"
+    },
+    {
+     "display_reference": "CS-8538",
+     "identifiers": [
+      "Haruka Sato",
+      "haruka.s1838@zoho.com",
+      "+81 90 7610 2507",
+      "user_11"
+     ],
+     "record_type": "SUPPORT_MESSAGE",
+     "resource_id": "support_9538",
+     "retain_until": "",
+     "status": "IDENTIFIABLE",
+     "subject": "haruka.s1838@zoho.com",
+     "system": "support_platform"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1676,
+   "output": 3440
+  }
+ },
+ "84b27e3b08efaf207e7aa1c4ae7b8d8aa7bc4e30d01e70fb1db8bf6de980294f": {
+  "model": "gemini-3.5-flash",
+  "purpose": "intent_classification",
+  "response": {
+   "results": [
+    {
+     "authorizes_deletion": true,
+     "id": 0,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 1,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 2,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 3,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 4,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 5,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 6,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 7,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 8,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 9,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 10,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 11,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 12,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 13,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 14,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 15,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 16,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 17,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 18,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 19,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 20,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 21,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 22,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 23,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 24,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 25,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 26,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 27,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 28,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 29,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 30,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 31,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 32,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 33,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 34,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 35,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 36,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 37,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 38,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 39,
+     "request_type": "DELETION"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1820,
+   "output": 1744
+  }
+ },
+ "9185cbd64ecd087f60f719776115774db592d8a1c77eba3ce4f21268ca824951": {
+  "model": "gemini-flash-latest",
+  "purpose": "intent_classification",
+  "response": {
+   "results": [
+    {
+     "authorizes_deletion": true,
+     "id": 0,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 1,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 2,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 3,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 4,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 5,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 6,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 7,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 8,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 9,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 10,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 11,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 12,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 13,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 14,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 15,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 16,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 17,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 18,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 19,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 20,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 21,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 22,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 23,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 24,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 25,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 26,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 27,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 28,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 29,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 30,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 31,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 32,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 33,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": false,
+     "id": 34,
+     "request_type": "CORRECTION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 35,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 36,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 37,
+     "request_type": "DELETION"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1655,
+   "output": 1394
+  }
+ },
+ "94164b46eb7c583bf3ba3269a03aba349f67bdb6ce9cf4c8a4d4e67cdc95eb25": {
+  "purpose": "media_extraction",
+  "response": {
+   "records": [
+    {
+     "display_reference": "Customer Ingrid Dahl",
+     "identifiers": [
+      "Ingrid Dahl",
+      "user_18",
+      "ingrid.dahl@outlook.com"
+     ],
+     "record_type": "USER_PROFILE",
+     "resource_id": "user_18",
+     "retain_until": "",
+     "status": "IDENTIFIABLE",
+     "subject": "ingrid.dahl@outlook.com",
+     "system": "account_service"
+    },
+    {
+     "display_reference": "statement NST-2026-0718-1842",
+     "identifiers": [
+      "NST-2026-0718-1842",
+      "Ingrid Dahl",
+      "user_18",
+      "ingrid.dahl@outlook.com",
+      "ORD-20261260"
+     ],
+     "record_type": "USER_EXPORT",
+     "resource_id": "",
+     "retain_until": "",
+     "status": "FOUND",
+     "subject": "ingrid.dahl@outlook.com",
+     "system": "export_service"
+    },
+    {
+     "display_reference": "order ORD-20261260",
+     "identifiers": [
+      "ORD-20261260",
+      "Ingrid Dahl",
+      "ingrid.dahl@outlook.com",
+      "user_18",
+      "order date 08 Jul 2026",
+      "billing status paid",
+      "dispatched 10 Jul",
+      "delivered 14 Jul"
+     ],
+     "record_type": "DATA_FLOW",
+     "resource_id": "",
+     "retain_until": "",
+     "status": "FOUND",
+     "subject": "ingrid.dahl@outlook.com",
+     "system": "account_service"
+    },
+    {
+     "display_reference": "Smart desk lamp, SKU LAMP-SD-04",
+     "identifiers": [
+      "ORD-20261260",
+      "LAMP-SD-04",
+      "quantity 1",
+      "subtotal EUR 54.95",
+      "shipping EUR 4.99",
+      "tax EUR 11.99",
+      "total EUR 71.93"
+     ],
+     "record_type": "DATA_FLOW",
+     "resource_id": "",
+     "retain_until": "",
+     "status": "FOUND",
+     "subject": "ingrid.dahl@outlook.com",
+     "system": "account_service"
+    },
+    {
+     "display_reference": "Payment Visa ending 4821",
+     "identifiers": [
+      "Visa ending 4821",
+      "ORD-20261260"
+     ],
+     "record_type": "DATA_FLOW",
+     "resource_id": "",
+     "retain_until": "",
+     "status": "IDENTIFIABLE",
+     "subject": "ingrid.dahl@outlook.com",
+     "system": "account_service"
+    },
+    {
+     "display_reference": "Delivery address for ORD-20261260",
+     "identifiers": [
+      "24 Fjordgata, 7010 Trondheim, Norway",
+      "Ingrid Dahl",
+      "ingrid.dahl@outlook.com",
+      "user_18",
+      "ORD-20261260"
+     ],
+     "record_type": "USER_PROFILE",
+     "resource_id": "",
+     "retain_until": "",
+     "status": "IDENTIFIABLE",
+     "subject": "ingrid.dahl@outlook.com",
+     "system": "account_service"
+    },
+    {
+     "display_reference": "Order timeline for ORD-20261260",
+     "identifiers": [
+      "ORD-20261260",
+      "order placed",
+      "payment authorised",
+      "warehouse packed",
+      "carrier collected",
+      "delivered"
+     ],
+     "record_type": "DATA_FLOW",
+     "resource_id": "",
+     "retain_until": "",
+     "status": "FOUND",
+     "subject": "ingrid.dahl@outlook.com",
+     "system": "account_service"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1112,
+   "output": 5907
+  }
+ },
+ "9490dc8a6f4bad2c39b7b09f7a273551d58e77538950f2fd8639b9689df333e7": {
+  "model": "gemini-flash-latest",
+  "purpose": "intent_classification",
+  "response": {
+   "results": [
+    {
+     "authorizes_deletion": true,
+     "id": 0,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 1,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 2,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 3,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 4,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 5,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 6,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 7,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 8,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 9,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 10,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 11,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 12,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 13,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 14,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 15,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 16,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 17,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 18,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 19,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 20,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 21,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 22,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 23,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 24,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 25,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 26,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 27,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 28,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 29,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 30,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 31,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 32,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 33,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 34,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 35,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 36,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 37,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 38,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 39,
+     "request_type": "DELETION"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1744,
+   "output": 1260
+  }
+ },
+ "94c04edeaf3e65b932893f0f03ffc5643b0670f4079e1e30626c97ec5a0629f2": {
+  "purpose": "media_extraction",
+  "response": {
+   "records": [
+    {
+     "display_reference": "bluepeakco@outlook.com",
+     "identifiers": [
+      "bluepeakco@outlook.com"
+     ],
+     "record_type": "BACKUP_ARCHIVE",
+     "resource_id": "backup_9291",
+     "retain_until": "",
+     "status": "ACTIVE",
+     "subject": "bluepeakco@outlook.com",
+     "system": "backup_service"
+    },
+    {
+     "display_reference": "miller.logistics@company.com",
+     "identifiers": [
+      "miller.logistics@company.com"
+     ],
+     "record_type": "BACKUP_ARCHIVE",
+     "resource_id": "backup_9288",
+     "retain_until": "",
+     "status": "ACTIVE",
+     "subject": "miller.logistics@company.com",
+     "system": "backup_service"
+    },
+    {
+     "display_reference": "areed1433@gmail.com",
+     "identifiers": [
+      "areed1433@gmail.com"
+     ],
+     "record_type": "BACKUP_ARCHIVE",
+     "resource_id": "backup_9287",
+     "retain_until": "2026-07-26",
+     "status": "ACTIVE",
+     "subject": "areed1433@gmail.com",
+     "system": "backup_service"
+    },
+    {
+     "display_reference": "summit-retail@company.com",
+     "identifiers": [
+      "summit-retail@company.com"
+     ],
+     "record_type": "BACKUP_ARCHIVE",
+     "resource_id": "backup_9286",
+     "retain_until": "",
+     "status": "ACTIVE",
+     "subject": "summit-retail@company.com",
+     "system": "backup_service"
+    }
+   ]
+  },
+  "usage": {
+   "input": 854,
+   "output": 1491
+  }
+ },
+ "94dd386aaf1a51c808e405d10f63e8e8e5b043a6ca0838bb9af352d8a88ab391": {
+  "model": "gemini-3.5-flash",
+  "purpose": "intent_classification",
+  "response": {
+   "results": [
+    {
+     "authorizes_deletion": true,
+     "id": 0,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 1,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 2,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 3,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 4,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 5,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 6,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 7,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 8,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 9,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 10,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 11,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 12,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 13,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 14,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 15,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 16,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 17,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 18,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 19,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 20,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 21,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 22,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 23,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 24,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 25,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 26,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 27,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 28,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 29,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 30,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 31,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": false,
+     "id": 32,
+     "request_type": "ACCOUNT_SUPPORT"
+    },
+    {
+     "authorizes_deletion": false,
+     "id": 33,
+     "request_type": "ACCESS"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 34,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": false,
+     "id": 35,
+     "request_type": "ACCESS"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 36,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 37,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": false,
+     "id": 38,
+     "request_type": "ACCESS"
+    },
+    {
+     "authorizes_deletion": false,
+     "id": 39,
+     "request_type": "EXPORT"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1635,
+   "output": 6627
+  }
+ },
+ "9cc5dc0ea277d03b30f92b1f3efd9dad24dbbdc48bd0042a188b44fc7432327a": {
+  "model": "gemini-3.5-flash",
+  "purpose": "intent_classification",
+  "response": {
+   "results": [
+    {
+     "authorizes_deletion": true,
+     "id": 0,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 1,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 2,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 3,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": false,
+     "id": 4,
+     "request_type": "EXPORT"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 5,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 6,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 7,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 8,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": false,
+     "id": 9,
+     "request_type": "CORRECTION"
+    },
+    {
+     "authorizes_deletion": false,
+     "id": 10,
+     "request_type": "OTHER"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 11,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 12,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 13,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 14,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 15,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 16,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 17,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 18,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 19,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 20,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 21,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 22,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 23,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 24,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 25,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 26,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 27,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 28,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 29,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 30,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 31,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 32,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": false,
+     "id": 33,
+     "request_type": "CORRECTION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 34,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 35,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 36,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 37,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 38,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 39,
+     "request_type": "DELETION"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1662,
+   "output": 2881
+  }
+ },
+ "9f4dfb47116b4316daa3f33fdf55732ecb56d45112a4b3ad9fc88c6c4836b1f2": {
+  "model": "gemini-flash-latest",
+  "purpose": "media_extraction",
+  "response": {
+   "captured_at": "2026-09-05T06:30:00Z",
+   "records": [
+    {
+     "display_reference": "CJX-20260905-0630",
+     "identifiers": [
+      "user_03"
+     ],
+     "record_type": "SECURITY_AUDIT_LOG",
+     "resource_id": "audit_record_003",
+     "retain_until": "2027-08-25",
+     "status": "FOUND",
+     "subject": "user_03",
+     "system": "security_service"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1128,
+   "output": 2722
+  }
+ },
+ "a3c23664c230cb22eb8a4457f5ca3bb035546d05023c0dd37e427afaee232a56": {
+  "purpose": "media_extraction",
+  "response": {
+   "records": [
+    {
+     "display_reference": "",
+     "identifiers": [
+      "jain.aditi@gmail.com"
+     ],
+     "record_type": "DATA_FLOW",
+     "resource_id": "data_flow_1121",
+     "retain_until": "",
+     "status": "ACTIVE",
+     "subject": "jain.aditi@gmail.com",
+     "system": "integration_service"
+    },
+    {
+     "display_reference": "",
+     "identifiers": [
+      "lucia-torres@gmail.com"
+     ],
+     "record_type": "DATA_FLOW",
+     "resource_id": "data_flow_9846",
+     "retain_until": "",
+     "status": "ACTIVE",
+     "subject": "lucia-torres@gmail.com",
+     "system": "integration_service"
+    }
+   ]
+  },
+  "usage": {
+   "input": 854,
+   "output": 4220
+  }
+ },
+ "ad7ca30fafecb8d388e69c891dbba6d78ca26ff80720b2300f41f36c99a7424f": {
+  "purpose": "media_extraction",
+  "response": {
+   "records": [
+    {
+     "display_reference": "Omar Darwish",
+     "identifiers": [
+      "Omar Darwish",
+      "user_20",
+      "analytics_7438",
+      "darwish.omar@icloud.com"
+     ],
+     "record_type": "ANALYTICS_PROFILE",
+     "resource_id": "analytics_7438",
+     "retain_until": "2026-07-13T14:22:00Z",
+     "status": "IDENTIFIABLE",
+     "subject": "darwish.omar@icloud.com",
+     "system": "analytics_platform"
+    },
+    {
+     "display_reference": "Order completed - Ceramic coffee set",
+     "identifiers": [
+      "Omar Darwish",
+      "user_20",
+      "analytics_7438",
+      "darwish.omar@icloud.com"
+     ],
+     "record_type": "PRODUCT_TELEMETRY",
+     "resource_id": "",
+     "retain_until": "2026-07-13T14:22:00Z",
+     "status": "FOUND",
+     "subject": "darwish.omar@icloud.com",
+     "system": "analytics_platform"
+    },
+    {
+     "display_reference": "Checkout started - 2 items",
+     "identifiers": [
+      "Omar Darwish",
+      "user_20",
+      "analytics_7438",
+      "darwish.omar@icloud.com"
+     ],
+     "record_type": "PRODUCT_TELEMETRY",
+     "resource_id": "",
+     "retain_until": "2026-07-13T14:22:00Z",
+     "status": "FOUND",
+     "subject": "darwish.omar@icloud.com",
+     "system": "analytics_platform"
+    },
+    {
+     "display_reference": "Product viewed - Ceramic coffee set",
+     "identifiers": [
+      "Omar Darwish",
+      "user_20",
+      "analytics_7438",
+      "darwish.omar@icloud.com"
+     ],
+     "record_type": "PRODUCT_TELEMETRY",
+     "resource_id": "",
+     "retain_until": "2026-07-13T14:22:00Z",
+     "status": "FOUND",
+     "subject": "darwish.omar@icloud.com",
+     "system": "analytics_platform"
+    },
+    {
+     "display_reference": "Added to cart - Ceramic coffee set",
+     "identifiers": [
+      "Omar Darwish",
+      "user_20",
+      "analytics_7438",
+      "darwish.omar@icloud.com"
+     ],
+     "record_type": "PRODUCT_TELEMETRY",
+     "resource_id": "",
+     "retain_until": "2026-07-13T14:22:00Z",
+     "status": "FOUND",
+     "subject": "darwish.omar@icloud.com",
+     "system": "analytics_platform"
+    },
+    {
+     "display_reference": "Product viewed - Stoneware mug",
+     "identifiers": [
+      "Omar Darwish",
+      "user_20",
+      "analytics_7438",
+      "darwish.omar@icloud.com"
+     ],
+     "record_type": "PRODUCT_TELEMETRY",
+     "resource_id": "",
+     "retain_until": "2026-07-13T14:22:00Z",
+     "status": "FOUND",
+     "subject": "darwish.omar@icloud.com",
+     "system": "analytics_platform"
+    },
+    {
+     "display_reference": "6 events in active session on 13 Jul",
+     "identifiers": [
+      "Omar Darwish",
+      "user_20",
+      "analytics_7438",
+      "darwish.omar@icloud.com"
+     ],
+     "record_type": "PRODUCT_TELEMETRY",
+     "resource_id": "",
+     "retain_until": "2026-07-13T14:22:00Z",
+     "status": "FOUND",
+     "subject": "darwish.omar@icloud.com",
+     "system": "analytics_platform"
+    },
+    {
+     "display_reference": "Order completed - USD 83.21 on 08 Jul",
+     "identifiers": [
+      "Omar Darwish",
+      "user_20",
+      "analytics_7438",
+      "darwish.omar@icloud.com"
+     ],
+     "record_type": "PRODUCT_TELEMETRY",
+     "resource_id": "",
+     "retain_until": "2026-07-13T14:22:00Z",
+     "status": "FOUND",
+     "subject": "darwish.omar@icloud.com",
+     "system": "analytics_platform"
+    },
+    {
+     "display_reference": "Product search - coffee set on 30 Jun",
+     "identifiers": [
+      "Omar Darwish",
+      "user_20",
+      "analytics_7438",
+      "darwish.omar@icloud.com"
+     ],
+     "record_type": "PRODUCT_TELEMETRY",
+     "resource_id": "",
+     "retain_until": "2026-07-13T14:22:00Z",
+     "status": "FOUND",
+     "subject": "darwish.omar@icloud.com",
+     "system": "analytics_platform"
+    },
+    {
+     "display_reference": "Campaign opened on 22 Jun",
+     "identifiers": [
+      "Omar Darwish",
+      "user_20",
+      "analytics_7438",
+      "darwish.omar@icloud.com"
+     ],
+     "record_type": "PRODUCT_TELEMETRY",
+     "resource_id": "",
+     "retain_until": "2026-07-13T14:22:00Z",
+     "status": "FOUND",
+     "subject": "darwish.omar@icloud.com",
+     "system": "analytics_platform"
+    }
+   ]
+  },
+  "usage": {
+   "input": 854,
+   "output": 4514
+  }
+ },
+ "bc276f2a5c7129d471d84aa6e92768979aa8cb0222e42f8e6add1b4f77537d46": {
+  "purpose": "media_extraction",
+  "response": {
+   "records": [
+    {
+     "display_reference": "CS-5034",
+     "identifiers": [
+      "Kofi Agyeman",
+      "kagyeman8947@fastmail.com",
+      "Maya Chen"
+     ],
+     "record_type": "SUPPORT_MESSAGE",
+     "resource_id": "support_1034",
+     "retain_until": "",
+     "status": "ACTIVE",
+     "subject": "kagyeman8947@fastmail.com",
+     "system": "support_platform"
+    },
+    {
+     "display_reference": "Could you let me know where my order is and when it is expected to arrive?",
+     "identifiers": [
+      "Kofi Agyeman",
+      "kagyeman8947@fastmail.com"
+     ],
+     "record_type": "SUPPORT_MESSAGE",
+     "resource_id": "",
+     "retain_until": "",
+     "status": "IDENTIFIABLE",
+     "subject": "kagyeman8947@fastmail.com",
+     "system": "support_platform"
+    },
+    {
+     "display_reference": "We received your message and are checking the order details.",
+     "identifiers": [
+      "kagyeman8947@fastmail.com"
+     ],
+     "record_type": "SUPPORT_MESSAGE",
+     "resource_id": "",
+     "retain_until": "",
+     "status": "IDENTIFIABLE",
+     "subject": "kagyeman8947@fastmail.com",
+     "system": "support_platform"
+    },
+    {
+     "display_reference": "The parcel reached the regional hub and is on track for delivery on 26 May.",
+     "identifiers": [
+      "Maya Chen",
+      "kagyeman8947@fastmail.com"
+     ],
+     "record_type": "SUPPORT_MESSAGE",
+     "resource_id": "",
+     "retain_until": "",
+     "status": "IDENTIFIABLE",
+     "subject": "kagyeman8947@fastmail.com",
+     "system": "support_platform"
+    },
+    {
+     "display_reference": "Thanks for the update.",
+     "identifiers": [
+      "Kofi Agyeman",
+      "kagyeman8947@fastmail.com"
+     ],
+     "record_type": "SUPPORT_MESSAGE",
+     "resource_id": "",
+     "retain_until": "",
+     "status": "IDENTIFIABLE",
+     "subject": "kagyeman8947@fastmail.com",
+     "system": "support_platform"
+    },
+    {
+     "display_reference": "ORD-20265034",
+     "identifiers": [
+      "Kofi Agyeman",
+      "kagyeman8947@fastmail.com",
+      "ORD-20265034",
+      "SWF-884103"
+     ],
+     "record_type": "DATA_FLOW",
+     "resource_id": "",
+     "retain_until": "2026-05-26",
+     "status": "ACTIVE",
+     "subject": "kagyeman8947@fastmail.com",
+     "system": "account_service"
+    },
+    {
+     "display_reference": "22 May Order confirmed",
+     "identifiers": [
+      "Kofi Agyeman",
+      "kagyeman8947@fastmail.com",
+      "ORD-20265034"
+     ],
+     "record_type": "DATA_FLOW",
+     "resource_id": "",
+     "retain_until": "",
+     "status": "FOUND",
+     "subject": "kagyeman8947@fastmail.com",
+     "system": "account_service"
+    },
+    {
+     "display_reference": "23 May Dispatched",
+     "identifiers": [
+      "Kofi Agyeman",
+      "kagyeman8947@fastmail.com",
+      "ORD-20265034"
+     ],
+     "record_type": "DATA_FLOW",
+     "resource_id": "",
+     "retain_until": "",
+     "status": "FOUND",
+     "subject": "kagyeman8947@fastmail.com",
+     "system": "account_service"
+    },
+    {
+     "display_reference": "24 May 07:46 Reached regional hub",
+     "identifiers": [
+      "Kofi Agyeman",
+      "kagyeman8947@fastmail.com",
+      "ORD-20265034"
+     ],
+     "record_type": "DATA_FLOW",
+     "resource_id": "",
+     "retain_until": "",
+     "status": "FOUND",
+     "subject": "kagyeman8947@fastmail.com",
+     "system": "account_service"
+    },
+    {
+     "display_reference": "24 May 08:15 In transit",
+     "identifiers": [
+      "Kofi Agyeman",
+      "kagyeman8947@fastmail.com",
+      "ORD-20265034"
+     ],
+     "record_type": "DATA_FLOW",
+     "resource_id": "",
+     "retain_until": "",
+     "status": "FOUND",
+     "subject": "kagyeman8947@fastmail.com",
+     "system": "account_service"
+    },
+    {
+     "display_reference": "26 May Delivery expected",
+     "identifiers": [
+      "Kofi Agyeman",
+      "kagyeman8947@fastmail.com",
+      "ORD-20265034"
+     ],
+     "record_type": "DATA_FLOW",
+     "resource_id": "",
+     "retain_until": "",
+     "status": "FOUND",
+     "subject": "kagyeman8947@fastmail.com",
+     "system": "account_service"
+    }
+   ]
+  },
+  "usage": {
+   "input": 854,
+   "output": 6563
+  }
+ },
+ "be5897304a4c8fc936a1d3be74731f79b11bc32d870bf0d7a10d24f5feb641b8": {
+  "model": "gemini-flash-latest",
+  "purpose": "intent_classification",
+  "response": {
+   "results": [
+    {
+     "authorizes_deletion": true,
+     "id": 0,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 1,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 2,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 3,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": false,
+     "id": 4,
+     "request_type": "EXPORT"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 5,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 6,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 7,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 8,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": false,
+     "id": 9,
+     "request_type": "CORRECTION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 10,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 11,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 12,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 13,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 14,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 15,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 16,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 17,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 18,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 19,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 20,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 21,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 22,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 23,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 24,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 25,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 26,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 27,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 28,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 29,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 30,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 31,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 32,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": false,
+     "id": 33,
+     "request_type": "CORRECTION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 34,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 35,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 36,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 37,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 38,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 39,
+     "request_type": "DELETION"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1711,
+   "output": 2145
+  }
+ },
+ "c3c0ed799596b9738900c9277ef16b18ee88ae53146ec38369871c038ee3e402": {
+  "model": "gemini-3.5-flash",
+  "purpose": "intent_classification",
+  "response": {
+   "results": [
+    {
+     "authorizes_deletion": true,
+     "id": 0,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 1,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 2,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 3,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 4,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 5,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 6,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 7,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 8,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 9,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 10,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 11,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 12,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 13,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 14,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 15,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 16,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 17,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 18,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 19,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 20,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 21,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 22,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 23,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 24,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 25,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 26,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 27,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 28,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 29,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 30,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 31,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 32,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 33,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 34,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 35,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 36,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 37,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 38,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 39,
+     "request_type": "DELETION"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1690,
+   "output": 2468
+  }
+ },
+ "d055d29cd47ff7e8549285fe9de039c0700960579e220160f011f406b6aae307": {
+  "model": "gemini-flash-latest",
+  "purpose": "intent_classification",
+  "response": {
+   "results": [
+    {
+     "authorizes_deletion": true,
+     "id": 0,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 1,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 2,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 3,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 4,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 5,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 6,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 7,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 8,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 9,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 10,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 11,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 12,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 13,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 14,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 15,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 16,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 17,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 18,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 19,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 20,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 21,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 22,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 23,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 24,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 25,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 26,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 27,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 28,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 29,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 30,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 31,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 32,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 33,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 34,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 35,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 36,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 37,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 38,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 39,
+     "request_type": "DELETION"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1648,
+   "output": 922
+  }
+ },
+ "d391dcbbf66e4a033bb0f448496b674175d1f6518197daf8403fcc1abb3284e8": {
+  "model": "gemini-3.5-flash",
+  "purpose": "intent_classification",
+  "response": {
+   "results": [
+    {
+     "authorizes_deletion": true,
+     "id": 0,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 1,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 2,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 3,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 4,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 5,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 6,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 7,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 8,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 9,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 10,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 11,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 12,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 13,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 14,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 15,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 16,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 17,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 18,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 19,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 20,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 21,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 22,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 23,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 24,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 25,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 26,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 27,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 28,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 29,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 30,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 31,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 32,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 33,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 34,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 35,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 36,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 37,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 38,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 39,
+     "request_type": "DELETION"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1620,
+   "output": 2800
+  }
+ },
+ "d9561de7ae8c2ad7ecab04862c8ace29e2e25ae48c2b1826d1629524d1965e98": {
+  "model": "gemini-flash-latest",
+  "purpose": "intent_classification",
+  "response": {
+   "results": [
+    {
+     "authorizes_deletion": true,
+     "id": 0,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 1,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 2,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 3,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 4,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 5,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 6,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 7,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 8,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 9,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 10,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 11,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 12,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 13,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 14,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 15,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 16,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 17,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 18,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 19,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 20,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 21,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 22,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 23,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 24,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 25,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 26,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 27,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 28,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 29,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 30,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 31,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 32,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 33,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 34,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 35,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 36,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 37,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 38,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 39,
+     "request_type": "DELETION"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1669,
+   "output": 1537
+  }
+ },
+ "dd3bb8f4df12ccbf7a4cfbf6f693762000030c1d4a2c034e241ed65b1d4baed7": {
+  "model": "gemini-3.5-flash",
+  "purpose": "media_extraction",
+  "response": {
+   "records": [
+    {
+     "display_reference": "user_17",
+     "identifiers": [
+      "user_17"
+     ],
+     "record_type": "SECONDARY_IDENTIFIER",
+     "resource_id": "",
+     "retain_until": "",
+     "status": "FOUND",
+     "subject": "user_17",
+     "system": "account_service"
+    },
+    {
+     "display_reference": "CS-3245",
+     "identifiers": [
+      "user_17"
+     ],
+     "record_type": "SUPPORT_MESSAGE",
+     "resource_id": "",
+     "retain_until": "",
+     "status": "ACTIVE",
+     "subject": "user_17",
+     "system": "support_platform"
+    },
+    {
+     "display_reference": "CS-3378",
+     "identifiers": [
+      "user_17"
+     ],
+     "record_type": "SUPPORT_MESSAGE",
+     "resource_id": "",
+     "retain_until": "",
+     "status": "ACTIVE",
+     "subject": "user_17",
+     "system": "support_platform"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1688,
+   "output": 6529
+  }
+ },
+ "eab14925cfca54566fc25e3103e5f2feccabb57f747d90969e995cbee5a13b6a": {
+  "model": "gemini-flash-latest",
+  "purpose": "intent_classification",
+  "response": {
+   "results": [
+    {
+     "authorizes_deletion": true,
+     "id": 0,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 1,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 2,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 3,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 4,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 5,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 6,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 7,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 8,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 9,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 10,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 11,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 12,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 13,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 14,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 15,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 16,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 17,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 18,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 19,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 20,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 21,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 22,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 23,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 24,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 25,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 26,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 27,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 28,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 29,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 30,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": false,
+     "id": 31,
+     "request_type": "CORRECTION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 32,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 33,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 34,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 35,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": false,
+     "id": 36,
+     "request_type": "CORRECTION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 37,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 38,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 39,
+     "request_type": "DELETION"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1717,
+   "output": 791
+  }
+ },
+ "ec884f46996494a38d610fa29170f7170249ba3abaa4227c87b13d2a471c8087": {
+  "model": "gemini-3.5-flash",
+  "purpose": "media_extraction",
+  "response": {
+   "records": [
+    {
+     "display_reference": "ORD-20264118",
+     "identifiers": [
+      "user_08"
+     ],
+     "record_type": "LEGAL_HOLD_RECORD",
+     "resource_id": "",
+     "retain_until": "2033-05-04",
+     "status": "FOUND",
+     "subject": "user_08",
+     "system": "legal_service"
+    },
+    {
+     "display_reference": "ORD-20264207",
+     "identifiers": [
+      "user_12"
+     ],
+     "record_type": "LEGAL_HOLD_RECORD",
+     "resource_id": "",
+     "retain_until": "2033-05-09",
+     "status": "FOUND",
+     "subject": "user_12",
+     "system": "legal_service"
+    },
+    {
+     "display_reference": "ORD-20264319",
+     "identifiers": [
+      "user_17"
+     ],
+     "record_type": "LEGAL_HOLD_RECORD",
+     "resource_id": "",
+     "retain_until": "2033-05-14",
+     "status": "FOUND",
+     "subject": "user_17",
+     "system": "legal_service"
+    },
+    {
+     "display_reference": "ORD-20264402",
+     "identifiers": [
+      "user_21"
+     ],
+     "record_type": "LEGAL_HOLD_RECORD",
+     "resource_id": "",
+     "retain_until": "2033-05-18",
+     "status": "FOUND",
+     "subject": "user_21",
+     "system": "legal_service"
+    },
+    {
+     "display_reference": "ORD-20264511",
+     "identifiers": [
+      "user_24"
+     ],
+     "record_type": "LEGAL_HOLD_RECORD",
+     "resource_id": "",
+     "retain_until": "2033-05-23",
+     "status": "FOUND",
+     "subject": "user_24",
+     "system": "legal_service"
+    },
+    {
+     "display_reference": "ORD-20264600",
+     "identifiers": [
+      "user_29"
+     ],
+     "record_type": "LEGAL_HOLD_RECORD",
+     "resource_id": "",
+     "retain_until": "2033-05-28",
+     "status": "FOUND",
+     "subject": "user_29",
+     "system": "legal_service"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1660,
+   "output": 4629
+  }
+ },
+ "fd572c78e9c40cd2adc60723b2fc53c2ec283886bac28f69e4c26e34efed989a": {
+  "model": "gemini-3.5-flash",
+  "purpose": "media_extraction",
+  "response": {
+   "records": [
+    {
+     "display_reference": "",
+     "identifiers": [
+      "Soo-jin Park",
+      "sj.park@naver.com",
+      "+82 10-5837-9451"
+     ],
+     "record_type": "MARKETING_PROFILE",
+     "resource_id": "marketing_001",
+     "retain_until": "",
+     "status": "IDENTIFIABLE",
+     "subject": "sj.park@naver.com",
+     "system": "marketing_platform"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1688,
+   "output": 1920
+  }
+ },
+ "fec45a8da48c54307d1ff71e08cbadcf0218106b32d575b1c984ed63fe96c652": {
+  "model": "gemini-flash-latest",
+  "purpose": "intent_classification",
+  "response": {
+   "results": [
+    {
+     "authorizes_deletion": true,
+     "id": 0,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 1,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 2,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 3,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 4,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 5,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 6,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 7,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 8,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 9,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 10,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 11,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 12,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 13,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 14,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 15,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 16,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 17,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 18,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 19,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 20,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 21,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 22,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 23,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 24,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 25,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 26,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 27,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 28,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 29,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 30,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": false,
+     "id": 31,
+     "request_type": "CORRECTION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 32,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 33,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 34,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 35,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": false,
+     "id": 36,
+     "request_type": "CORRECTION"
+    },
+    {
+     "authorizes_deletion": false,
+     "id": 37,
+     "request_type": "ACCESS"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 38,
+     "request_type": "DELETION"
+    },
+    {
+     "authorizes_deletion": true,
+     "id": 39,
+     "request_type": "DELETION"
+    }
+   ]
+  },
+  "usage": {
+   "input": 1668,
+   "output": 2099
+  }
+ }
+}

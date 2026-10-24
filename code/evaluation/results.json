@@ -1,0 +1,122 @@
+{
+ "metrics": {
+  "cases": 32,
+  "status_accuracy": 1.0,
+  "exact_case_match": 0.875,
+  "step_precision": 0.9947368421052631,
+  "step_recall": 0.9792746113989638,
+  "step_f1": 0.9869451697127937,
+  "sequence_similarity": 0.9824363425925925,
+  "field_accuracy": {
+   "phase": 0.9844559585492227,
+   "system_id": 0.9585492227979274,
+   "resource_id": 0.9533678756476683,
+   "operation": 0.9585492227979274,
+   "state": 0.9585492227979274,
+   "evidence_id": 0.9792746113989638
+  }
+ },
+ "diffs": {
+  "case_04": {
+   "gold_status": "COMPLETE",
+   "pred_status": "COMPLETE",
+   "missing": [
+    [
+     "VERIFICATION",
+     "account_service",
+     "account_004",
+     "VERIFY_RECORD_ABSENT",
+     "ABSENT",
+     "evidence_54"
+    ]
+   ],
+   "extra": []
+  },
+  "case_18": {
+   "gold_status": "INCOMPLETE",
+   "pred_status": "INCOMPLETE",
+   "missing": [
+    [
+     "VERIFICATION",
+     "security_service",
+     "audit_record_6645",
+     "VERIFY_RECORD_PRESENT",
+     "PRESENT",
+     ""
+    ]
+   ],
+   "extra": []
+  },
+  "case_20": {
+   "gold_status": "INCOMPLETE",
+   "pred_status": "INCOMPLETE",
+   "missing": [
+    [
+     "VERIFICATION",
+     "security_service",
+     "audit_record_5569",
+     "VERIFY_RECORD_PRESENT",
+     "PRESENT",
+     ""
+    ]
+   ],
+   "extra": []
+  },
+  "case_23": {
+   "gold_status": "INCOMPLETE",
+   "pred_status": "INCOMPLETE",
+   "missing": [
+    [
+     "VERIFICATION",
+     "account_service",
+     "account_410",
+     "VERIFY_RECORD_ABSENT",
+     "ABSENT",
+     ""
+    ]
+   ],
+   "extra": [
+    [
+     "VERIFICATION",
+     "account_service",
+     "account_294",
+     "VERIFY_RECORD_ABSENT",
+     "ABSENT",
+     ""
+    ]
+   ]
+  }
+ },
+ "custom": [
+  {
+   "name": "non-deletion text on a deletion case",
+   "case": "custom_1",
+   "expect": "status=NOT_APPLICABLE",
+   "got": "NOT_APPLICABLE",
+   "pass": true
+  },
+  {
+   "name": "multilingual deletion request",
+   "case": "custom_2",
+   "expect": "same_as=case_02",
+   "got": "COMPLETE",
+   "pass": true
+  },
+  {
+   "name": "historical email resolves to same subject",
+   "case": "custom_3",
+   "expect": "same_as=case_10",
+   "got": "INCOMPLETE",
+   "pass": true
+  },
+  {
+   "name": "unknown requester",
+   "case": "custom_4",
+   "expect": "status=NOT_APPLICABLE",
+   "got": "NOT_APPLICABLE",
+   "pass": true
+  }
+ ],
+ "future_evidence_violations": [],
+ "intent_disagreements": []
+}
